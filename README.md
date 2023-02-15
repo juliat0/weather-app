@@ -1,1 +1,1 @@
-# A Vue.js template for Vite
+# School project in Vue.js
